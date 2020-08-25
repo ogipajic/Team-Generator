@@ -2,4 +2,5 @@
 OOP
 
 * added output folder with html file
-* adding style gor html
+* adding style for html
+* app.js added js
